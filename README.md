@@ -25,8 +25,8 @@ A média de rebotes por temporada de cada jogador:
 
 | Jogador                    | Média de Rebotes |
 |----------------------------|------------------|
-| **Nikola Jokić**            | 29.1             |
-| **Shai Gilgeous-Alexander** | 32.3             |
+| **Nikola Jokić**            | 12.7             |
+| **Shai Gilgeous-Alexander** | 5.2              |
 
 ---
 
@@ -122,7 +122,7 @@ O **Desvio Padrão** (medida de dispersão dos dados) de pontos por jogo:
 
 Este relatório apresentou uma análise detalhada das estatísticas de **Shai Gilgeous-Alexander** e **Nikola Jokić** para a temporada NBA 2025. A análise abrange desde as médias de pontos, assistências e rebotes, até medidas de dispersão como a amplitude, quartis e desvio padrão, fornecendo uma visão completa sobre o desempenho de ambos os jogadores.
 
-O comportamento dos jogadores ao longo da temporada pode ser observado e comparado, com destaque para o **Shai Gilgeous-Alexander** que apresenta um desempenho superior em pontos e rebotes por jogo, enquanto **Nikola Jokić** se destaca em assistências.
+O comportamento dos jogadores ao longo da temporada pode ser observado e comparado, com destaque para o **Nikola Jokić** que apresenta um desempenho superior em assistencias e rebotes por jogo, enquanto  **Shai Gilgeous-Alexander** se destaca em pontos(por apenas 3).
 
 ---
 
